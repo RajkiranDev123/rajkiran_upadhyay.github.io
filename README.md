@@ -6,4 +6,8 @@ here are the instructions to run the project :
 4. Open terminal on the vs code using ctrl + `
 5. and then type : git clone https://github.com/RajkiranDev123/rajkiran_upadhyay.github.io.git
 6. run it
-Or see live : https://rajkirandev123.github.io/rajkiran_upadhyay.github.io/
+
+
+
+
+see live : https://rajkirandev123.github.io/rajkiran_upadhyay.github.io/
